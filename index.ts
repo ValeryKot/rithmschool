@@ -2,7 +2,7 @@ let str: string;
 
 str = "0";
 
-let x = new Date();
+let g = new Date();
 
 let score: number | string; //union
 
